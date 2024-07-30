@@ -15,9 +15,8 @@ git clone https://seu-repositorio.com/seu-projeto
 cd seu-projeto
 
 ## Desenvolvimento Local
-O ambiente local permite o desenvolvimento rápido utilizando "hot-reloads".
 
-## Backend:
+# Backend:
 
 Navegue até a pasta backend:
 - cd backend
@@ -30,7 +29,7 @@ Navegue até a pasta backend:
 O backend estará disponível em http://localhost:4000/api-documentation
 
 
-## Frontend:
+#Frontend:
 
 Navegue até a pasta frontend:
 - cd frontend
